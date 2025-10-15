@@ -1,0 +1,14 @@
+conversation_history:
+Human: i'm mustafa
+AI: Hello, Mustafa! How can I assist you today?
+
+
+Human: who are you
+AI: I’m an AI language model created by OpenAI, designed to assist with a variety of questions and tasks. How can I help you today?
+
+
+Human: when was the first time that you answered a human
+AI: I don't have personal experiences or memories, but the first version of the AI model I’m based on, known as GPT-3, was released in June 2020. Since then, it has been used to interact with users and answer questions. If you have any specific questions or topics you'd like to discuss, feel free to ask!
+
+
+End of Conversation

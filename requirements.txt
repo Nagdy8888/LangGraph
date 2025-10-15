@@ -1,0 +1,11 @@
+langgraph==0.6.8
+langchain==0.3.27
+langchain-core==0.3.78
+langchain-community==0.3.31
+langchain-openai==0.3.35
+langchain-anthropic==0.3.21
+pypdf==6.1.1
+chromadb==1.1.1
+matplotlib==3.8.2
+pandas==2.1.4
+numpy==1.26.4
